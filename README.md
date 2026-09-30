@@ -1,4 +1,5 @@
 # ok
+https://github.com/itsaxat7479/ok/edit/main/README.md
 # Domain Your Personalized Link
 1️⃣ Azure https://azure.microsoft.com/?wt.mc_id=studentamb_477258
 
